@@ -126,7 +126,3 @@ loadMat(["Gold", "Lead", "Silver", "Nickel", "Tin", "Titanium", "Zinc", "Brass_c
 #loadNewMat()
 
 start()
-
-#asdasdasd
-
-print("1234")
